@@ -1,11 +1,14 @@
 # PolyOne
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for PolyOne.
+PolyOne Corporation was a specialty polymer materials and services company formed in 2000 through the merger of M.A. Hanna Company and The Geon Company. In 2020, after acquiring a division from Clariant, the company rebranded as Avient Corporation. No public developer APIs are documented.
+
+**APIs.json:** [apis.yml](apis.yml)
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public developer APIs have been documented. Check back for updates.
 
 ## Properties
 
-- [Website](https://www.polyone.com)
+- [Website (Avient)](https://www.avient.com)
+- [Legacy Website (PolyOne)](https://www.polyone.com)
