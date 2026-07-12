@@ -4,12 +4,16 @@ url: >-
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/polyone-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/polyone
   - type: Website
     url: https://www.avient.com
   - type: LegacyWebsite
     url: https://www.polyone.com
+  - url: https://www.avient.com/news
+    type: Blog
 description: >-
   PolyOne Corporation was a specialty polymer materials and services company
   formed in 2000 through the merger of M.A. Hanna Company and The Geon
