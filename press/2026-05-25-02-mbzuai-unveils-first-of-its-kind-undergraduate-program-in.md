@@ -1,7 +1,9 @@
 ---
 title: MBZUAI Unveils First-of-its-Kind Undergraduate Program in ...
 url: https://via.tt.se/pressmeddelande/3813004/mbzuai-unveils-first-of-its-kind-undergraduate-program-in-artificial-intelligence-designed-to-empower-future-ai-leaders?publisherId=3236991&lang=en
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PolyOne" press release artificial intelligence'
 position: 2
 source: serpapi-google
